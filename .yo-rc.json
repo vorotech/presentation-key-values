@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Company Key Values",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "vorotech",
+    "githubRepository": "presentation-key-values"
+  }
+}
